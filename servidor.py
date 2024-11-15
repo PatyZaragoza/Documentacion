@@ -1,3 +1,5 @@
+# Patricia Zaragoza Palma
+# Ingenieria en Sistemas Computacionales
 import socket
 import pyautogui
 import io

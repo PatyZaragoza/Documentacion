@@ -1,3 +1,4 @@
+# patricia Zaragoza Palma
 # Cliente
 import socket
 import numpy as np

@@ -1,3 +1,6 @@
+# Patricia Zaragoza Palma 
+# Ingenieria en sistemas Computacionales 
+
 import socket
 import struct
 import numpy as np

@@ -1,3 +1,6 @@
+# ingeniería en sistemas computacionales 
+# Patricia Zaragoza Palma 
+
 import socket
 import numpy as np
 import cv2

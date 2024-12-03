@@ -1,5 +1,5 @@
 # ingeniería en sistemas computacionales 
-# Patricia Zaragoza Palma 
+# Autor : Patricia Zaragoza Palma 
 
 import socket
 import numpy as np

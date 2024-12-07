@@ -5,3 +5,6 @@ los codigos mostrados deben de contener las siguientes instalaciones:
 pip install mss
 
 asi mismo funciona el dispositivo con Linux 
+
+Es importante tomar en cuenta que se se debe de tener el puerto SSH (22).
+Como tambien es importante usar una conexion estable.

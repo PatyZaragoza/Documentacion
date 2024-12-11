@@ -1,3 +1,5 @@
+# Patricia Zaragoza Palma 
+
 import socket
 import struct
 from PIL import ImageGrab

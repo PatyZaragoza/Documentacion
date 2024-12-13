@@ -8,3 +8,7 @@ asi mismo funciona el dispositivo con Linux
 
 Es importante tomar en cuenta que se se debe de tener el puerto SSH (22).
 Como tambien es importante usar una conexion estable.
+Algunos puertos suelen cerrarce es por ello que deben de activarce nuevamente.
+por ejemplo:
+Systemctl star ssh ( para el puerto 22)
+Systemcto status ssh (comprobar si esta activo)

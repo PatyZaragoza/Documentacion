@@ -1,4 +1,3 @@
-# Patricia Zaragoza Palma
 import tkinter as tk
 from tkinter import messagebox
 import paramiko

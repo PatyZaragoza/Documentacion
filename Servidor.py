@@ -1,3 +1,4 @@
+#se debe de tomar en cuenta el tipo de Sistema operativo 
 # ingeniería en sistemas computacionales 
 # Autor : Patricia Zaragoza Palma 
 

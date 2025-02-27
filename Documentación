@@ -7,3 +7,4 @@ Se necesita instalar NoMachine el cual es un software de monitoreo que estremos 
 Asi mismo tambien se necesita instalar algunas cosas como lo son:
   pip install numpy
   pip install cv2
+se usara el puerto SSH (22)
